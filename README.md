@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h-xx&label=Profile%20views&color=0e75b6&style=flat" alt="h-xx" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h-xx" alt="h-xx" /></a> </p>
+<p align="left"> <a href="https://github.com/h-xx/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h-xx" alt="h-xx" /></a> </p>
 
 ## 💼 About Me
 - 🔗 Building bridges between Web2 and Web3 technologies
